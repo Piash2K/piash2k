@@ -25,9 +25,9 @@
 ###
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=piash2k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piash2k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph" />
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark" height="180" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark" height="170" alt="GitHub Streak" />
   </a>
 </div>
 
