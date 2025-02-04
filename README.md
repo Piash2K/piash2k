@@ -13,4 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&locale=en" alt="piash2k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piash2k&" alt="piash2k" /></p>
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=Piash2K&theme=dark" alt="GitHub Streak">
+</a>
