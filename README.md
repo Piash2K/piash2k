@@ -42,7 +42,7 @@
 
 ![Piash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=150)
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=150" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=140" alt="GitHub Streak" />
   </a>
 
 <p align="center">
