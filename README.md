@@ -6,69 +6,57 @@
 
 <h1 align="left">Hello there...👋 I’m an Experienced Web Developer with Expertise in Modern Web Technologies</h1>
 
-###
 
-<h2 align="center">👨‍💻 About me</h2>
-
-###
-
+## 👨‍💻 About Me
 <p align="left">I am a skilled web developer with expertise in Tailwind CSS, JavaScript, React.js, Node.js, MongoDB, and Express.js. I focus on  building modern, scalable, and user-friendly web applications, ensuring smooth front-end experiences and efficient back-end solutions.<br><br>Passionate about continuous learning and innovation, I stay updated with the latest technologies to develop high-quality, performance-driven web solutions. I am committed to delivering clean, maintainable code and creating impactful digital experiences.</p>
 
-###
+- 🌱 Currently exploring **Next.js** and enhancing my **backend development** skills.
+- 💡 Love building **efficient, scalable, and user-friendly web applications**.
+- 🎨 Enthusiast in crafting modern UI/UX designs with **Tailwind CSS and DaisyUI**.
 
-<p align="left">✨ Creating bugs since: I started my web development journey.<br>📚 I'm currently learning: Advanced JavaScript and best practices in web development.<br>🎯 Goals: To build reliable and efficient web applications while constantly improving my skills.<br>🎲 Fun fact: I enjoy tackling coding challenges and exploring new technologies.</p>
+## 🔥 What I'm Up To
 
-###
+- 🚀 Working on a **blog website** for unbiased reviews & latest news.
+- 🏗️ Developing a **building management system**.
+- 🔄 Experimenting with **TanStack Query** for efficient API handling.
+- 💡 Exploring **best practices in full-stack development**.
 
-<h2 align="center">📈Current Stats</h2>
+## 🛠️ Skills & Technologies
 
-###
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=piash2k&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="156" alt="stats graph" />
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Piash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=186)
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark" height="156" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=186" alt="GitHub Streak" />
   </a>
-</div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=dark" height="186" alt="Top Languages" />
+</p>
 
+## 🌐 Connect with Me
 
-###
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piash2k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piash-islam-2k)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PiashIslam2K)
 
-<h2 align="center">💻 I code with</h2>
+📍 **Location:** Savar,Dhaka,Bangladesh
+📧 **Email:** piashdiu@gmail.com
+📞 **Contact:** +8801301565464
 
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
-
-###
-
-<h2 align="center">🤝 Connect with me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/piash-islam-2k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/PiashIslam2K" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/piash.islam.2000/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+---
