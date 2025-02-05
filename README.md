@@ -40,10 +40,12 @@
 
 ## 📊 GitHub Stats
 
-![Piash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=130)
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=130" alt="Piash's GitHub Stats" />
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=130" alt="GitHub Streak" />
   </a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=dark" height="150" alt="Top Languages" />
