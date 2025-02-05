@@ -41,12 +41,18 @@
 ## 📊 GitHub Stats
 
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=130" alt="Piash's GitHub Stats" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=130" alt="GitHub Streak" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=130" alt="Piash's GitHub Stats" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=130" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
