@@ -40,13 +40,13 @@
 
 ## 📊 GitHub Stats
 
-![Piash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=186)
+![Piash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&height=156)
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=186" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&height=156" alt="GitHub Streak" />
   </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=dark" height="186" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=dark" height="156" alt="Top Languages" />
 </p>
 
 ## 🌐 Connect with Me
