@@ -50,19 +50,16 @@ I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreS
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=piash2k&show_icons=true&theme=dark&hide_border=true" alt="Piash's GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=piash2k&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app?user=piash2k&theme=dark&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=piash2k&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=dark&hide_border=true"  alt="Top Languages" />
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=piash2k&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌐 Connect with Me
