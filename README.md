@@ -61,6 +61,7 @@ I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreS
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=piash2k&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 ## 🌐 Connect with Me
 
