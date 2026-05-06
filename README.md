@@ -2,6 +2,10 @@
   <img src="https://i.ibb.co/qLw3bbSt/Git-Hub-Banner.png" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Modern+Web+Applications;Clean+Code+%7C+Performance+%7C+User+Experience" />
+</p>
+
 ###
 
 <h1 align="left">Hello there...👋 I’m an Experienced Web Developer with Expertise in Modern Web Technologies</h1>
