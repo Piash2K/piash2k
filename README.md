@@ -12,20 +12,23 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-I am a skilled web developer with expertise in Tailwind CSS, DaisyUI, JavaScript, React.js, Node.js, TypeScript, PostgreSQL, MongoDB, and Express.js. I focus on building modern, scalable, and user-friendly web applications, ensuring smooth front-end experiences and efficient back-end solutions.<br><br>
-I develop robust backend systems using <strong>TypeScript, Node.js, and PostgreSQL</strong>, focusing on performance, security, and maintainability. Passionate about continuous learning and innovation, I stay updated with the latest technologies to deliver high-quality, scalable, and production-ready web solutions.
+Full Stack Developer passionate about building scalable, modern, and user-focused web applications using React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. I focus on creating clean, responsive, and high-performance applications with seamless user experiences and maintainable backend architectures.<br><br>
+
+Experienced in developing secure authentication systems, REST APIs, payment integrations, and modern UI interfaces using Tailwind CSS, shadcn/ui, and Framer Motion. Passionate about continuous learning, problem-solving, and building production-ready web solutions with modern technologies and best practices.
 </p>
 
-- 🌱 Currently exploring **Next.js** and enhancing my **backend development** skills.
-- 💡 Love building **efficient, scalable, and user-friendly web applications**.
-- 🎨 Enthusiast in crafting modern UI/UX designs with **Tailwind CSS and DaisyUI**.
+- 🌱 Currently exploring advanced backend architecture and modern web technologies.
+- ⚡ Building scalable full-stack applications with clean code and optimized performance.
+- 🎨 Crafting responsive, user-friendly, and modern UI/UX experiences.
+- 🔄 Working with Next.js, Prisma ORM, TanStack Query, and authentication systems.
 
 ## 🔥 What I'm Up To
 
-- 🚀 Working on a **blog website** for unbiased reviews & latest news.
-- 🏗️ Developing a **building management system**.
-- 🔄 Experimenting with **TanStack Query** for efficient API handling.
-- 💡 Exploring **best practices in full-stack development**.
+- 🚀 Developing scalable full-stack web applications with modern technologies.
+- 🏗️ Building secure authentication systems, REST APIs, and backend architectures.
+- 💳 Exploring payment integrations and production-ready application workflows.
+- 📚 Learning advanced concepts in Next.js, PostgreSQL, Prisma ORM, and backend optimization.
+- 🤝 Collaborating on AI-based and real-time web application projects.**.
 
 ## 🛠️ Skills & Technologies
 
