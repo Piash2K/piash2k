@@ -73,15 +73,26 @@ Experienced in developing secure authentication systems, REST APIs, payment inte
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=piash2k&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piash2k&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piash2k&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<img src="https://komarev.com/ghpvc/?username=piash2k&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<table>
+  <tr>
+    <td valign="middle">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=tokyonight&hide_border=true&card_width=390&langs_count=8" 
+      />
+    </td>
+<!-- - -->
+    <td valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piash2k&theme=tokyonight" 
+      />
+    </td>
+  </tr>
+</table>
 
 
 ## 📈 Contribution Graph
