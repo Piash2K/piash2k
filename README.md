@@ -65,8 +65,6 @@ Experienced in developing secure authentication systems, REST APIs, payment inte
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
 
 <table>
