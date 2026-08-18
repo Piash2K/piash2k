@@ -115,6 +115,13 @@ Experienced in developing secure authentication systems, REST APIs, payment inte
 
 [![Piash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piash2k&theme=tokyo-night)](https://github.com/piash2k)
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=piash2k&label=Profile+Views&color=38BDF8&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piash2k)
