@@ -71,7 +71,7 @@ Experienced in developing secure authentication systems, REST APIs, payment inte
   <tr>
     <td align="center" valign="top">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=piash2k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+        src="https://github-stats-extended.vercel.app/api?username=piash2k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
         width="495"
         height="195"
       />
@@ -91,7 +91,7 @@ Experienced in developing secure authentication systems, REST APIs, payment inte
   <tr>
     <td align="center" valign="middle">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=tokyonight&hide_border=true&card_width=390&langs_count=8&cache_seconds=1800"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=piash2k&layout=compact&theme=tokyonight&hide_border=true&card_width=390&langs_count=8&cache_seconds=1800"
         width="495"
         height="195"
       />
@@ -108,6 +108,7 @@ Experienced in developing secure authentication systems, REST APIs, payment inte
 </table>
 
 </div>
+
 
 
 ## 📈 Contribution Graph
